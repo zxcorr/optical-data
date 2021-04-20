@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 '''
-This script contains metrics to ensure the quality of photmoetric redshift estimation in this work
+This script contains metrics to ensure the quality of photmoetric redshift estimation in this work teste
 '''
 
 
